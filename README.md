@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on hackathons
 - 📫 How to reach me: (LinkedIn) https://www.linkedin.com/in/suswagata/
--                      (Email) suswagatadas@gmail.com 
+- (Email) suswagatadas@gmail.com 
 
 <!---
 Suswagata/Suswagata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
